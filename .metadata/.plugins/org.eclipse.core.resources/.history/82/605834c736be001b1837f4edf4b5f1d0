@@ -1,0 +1,29 @@
+package repeticao;
+
+import javax.swing.JOptionPane;
+
+public class DesafioDo {
+	
+	public static void main(String[] args) {
+		
+		int numero, chute;
+				
+		numero = Integer.parseInt(JOptionPane.showInputDialog("Jogador 1, digite um número"));
+		chute = 0;
+		
+		do {
+			chute = Integer.parseInt(JOptionPane.showInputDialog("Jogador 2, adivinhe número"));
+			if(chute>numero) {
+				JOptionPane.showMessageDialog(null, "Chutou acima");
+			}else if (chute<numero) {
+				JOptionPane.showMessageDialog(null, "Chutou abaixo");
+			}
+		}while (numero!=chute);
+		
+		
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,22 @@
+package decisao;
+
+public class Exercicio2 {
+
+	/*
+	 * Exercicio 2:
+	 * Considere receber a quantidade de diárias de um hotel e o valor
+	 * da diária. Sobre a diária haverá uma taxa que depende da quantidade
+	 * de diárias.
+	 * Se a quantidade de diárias for maior que 10 a taxa será de 5%
+	 * Se a quantidade estiver entre 5 e 10 a taxa será de 8%
+	 * Se a quantidade de diarias for menor que 5 a taxa será de 10%
+	 * Exiba o valor final.
+	 */
+	
+	public static void main(String[] args) {
+		
+		
+		
+	}
+	
+}

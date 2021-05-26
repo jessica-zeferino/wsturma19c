@@ -1,0 +1,22 @@
+package variaveis;
+
+public class ManipulaString {
+	
+	public static void main(String[] args) {
+		
+		String email = "jessica.ZeferIno@itau-unibanco.Com.br";
+		System.out.println("Original: " + email);
+		System.out.println("Minúscula: " + email.toLowerCase());
+		System.out.println("Maiúscula: " + email.toUpperCase());
+		System.out.println("Tem arroba? " + email.contains("@"));
+		System.out.println("Posição do @: " + email.indexOf("@"));
+		System.out.println("qtd de caracteres: " + email.length());
+		System.out.println("do 2 até o 5º caracter: " + email.substring(1,4));
+		
+		
+		// j e s s i c a . z e f e r i n o @
+		// indexOf retorna um inteiro
+		
+	}
+	
+}
