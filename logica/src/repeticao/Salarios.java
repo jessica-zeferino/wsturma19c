@@ -1,5 +1,7 @@
 package repeticao;
 
+import javax.swing.JOptionPane;
+
 public class Salarios {
 
 	public static void main(String[] args) {

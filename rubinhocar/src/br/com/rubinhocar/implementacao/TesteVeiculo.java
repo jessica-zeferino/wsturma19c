@@ -1,4 +1,4 @@
-package br.com.rubinhocar.modelo;
+package br.com.rubinhocar.implementacao;
 
 import br.com.rubinhocar.modelo.Veiculo;
 

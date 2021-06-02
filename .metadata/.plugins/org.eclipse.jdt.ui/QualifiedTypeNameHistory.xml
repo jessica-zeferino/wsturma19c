@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="br.com.lojaregina.implementacao.TesteProduto"/>
+<fullyQualifiedTypeName name="br.com.lojaregina.modelo.Produto"/>
+<fullyQualifiedTypeName name="br.com.lojaregina.modelo.Endereco"/>
 </qualifiedTypeNameHistroy>
